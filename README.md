@@ -1,2 +1,2 @@
 # TWITCH
-Checks is twitch stream is online and send a notification to Telegram
+Checks if twitch stream is online and sends a notification to Telegram
