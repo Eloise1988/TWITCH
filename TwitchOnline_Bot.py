@@ -48,7 +48,6 @@ def is_TwitchOnline():
 
         # Twitch var data returns wether the stream just went live
         if var['data'] and boolean_online.upper()=='FALSE':
-            message="Stream of : ["+str(userStream)+"](https:www.twitch.tv/"+str(userStream)+") is online. \n"
             message='Stream of : ['+str(userStream)+'](https://www.twitch.tv/'+str(userStream)+') is online. \n'
 
 
